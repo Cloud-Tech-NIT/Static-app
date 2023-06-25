@@ -1,3 +1,3 @@
 # Static-app
-Project for Azure by abdul
-learn.futureskillsprime by Microsoft Azure
+Project  by abdul-
+learn.futureskillsprime to Microsoft Azure
